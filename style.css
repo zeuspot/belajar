@@ -1,0 +1,26 @@
+#wrapper{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#header{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+#content-1{
+    padding: 40px;
+    display: flex;
+    justify-content: right;
+}
+
+#content-2{
+   padding:40px ; 
+}
+ 
+#footer{
+   padding:40px ; 
+}
+
+
